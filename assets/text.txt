@@ -1,0 +1,6 @@
+#about me
+
+I am a passionate Full Stack Developer in developing
+web applications using a wide range of front-end and back-end applications.
+Proficient in an assortment of technologies, including HTML,Css,Javascript,
+Node.js,Express.js and python Programming.
